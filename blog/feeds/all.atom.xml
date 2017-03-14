@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-04T11:20:00+08:00</updated><entry><title>Week2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-04:./Week 2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-10T11:20:00+08:00</updated><entry><title>Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;零件一 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sYBQ4hjl2aY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件二 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VI9rJlEU_mA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件三 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NeDJ5FwVN3c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;組合 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MrYIStdMGWI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;solvespace轉入v rep 40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0i3bnrP1BQ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;onshape轉入v rep 40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5MxxeUaQtis" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;solvespace三角形運動軌跡模擬40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0y6PWAxTM7U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得:&lt;/h2&gt;
+
+&lt;h2&gt;v-rep這個程式可以讓我們去模擬出這個作動方式可不可以實行,這樣可以減少很多風險而且很有效率&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-04:./Week 2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;組合&lt;/h2&gt;
 
@@ -21,10 +53,12 @@
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9GztpUV6j0I" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;心得:本週要畫連桿機構，以協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統，在經練習後拍下影片紀錄。
-筆記:
+&lt;h2&gt;心得:&lt;/h2&gt;
+
+&lt;h2&gt;本週要畫連桿機構，以協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統，在經練習後拍下影片紀錄。&lt;/h2&gt;
+&lt;p&gt;筆記:
 1.REM tiny2017主要針對初學Python3與C學員所建立
-2.REM近端使用fossil管理資料版本，並且定時轉為git格式後上傳到github&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+2.REM近端使用fossil管理資料版本，並且定時轉為git格式後上傳到github&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;用ipconfig/all的指令去找IP位置
 利用尋找到的IP位置去改stunnel.conf的IP&lt;/p&gt;
