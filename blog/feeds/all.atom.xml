@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-10T11:20:00+08:00</updated><entry><title>Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-15T11:20:00+08:00</updated><entry><title>Week4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;線上 倉儲&lt;/h2&gt;
+
+&lt;p&gt;要在https://mde2a2.kmol.info 中建立第四組的倉儲&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;第四組&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;hyperworks 14-3 翻譯  40423203 40423201 &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMpXFV-gB4s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;以下是我翻譯的上半部分&lt;/h2&gt;
+
+&lt;h2&gt;we've also introduced what is called the park&lt;/h2&gt;
+&lt;p&gt;我們還去可以使用公共模型&lt;/p&gt;
+&lt;p&gt;empathy now and i promise just like CAD park entity &lt;/p&gt;
+&lt;p&gt;就像CAD模型一樣&lt;/p&gt;
+&lt;p&gt;so what that allows us to do is give you theexact same billof materials &lt;/p&gt;
+&lt;p&gt;模型中我們給你完全一樣的物料清單&lt;/p&gt;
+&lt;p&gt;in the hypermesh models that you have in your cad systems &lt;/p&gt;
+&lt;p&gt;讓你在你的CAD系統中使用&lt;/p&gt;
+&lt;p&gt;what we can do now is have say like thin solid it normally since 15 on many differentcomponents&lt;/p&gt;
+&lt;p&gt;我們還可以做出，像較薄的物件通常有15種不同的性質&lt;/p&gt;
+&lt;p&gt;but our shell components and you still want to group all those components into playing withparts and mangement completion away &lt;/p&gt;
+&lt;p&gt;並且將這些所有物質分配組到使用零件的一部分&lt;/p&gt;
+&lt;p&gt;if you want another representation which may be has a differentmesh density you can do that and configure your model according to different types of disciplines or crash or mph you&lt;/p&gt;
+&lt;p&gt;所以如果你想要不同性質表示不同密度，你可以做到並根據不同需求來配置你的模型&lt;/p&gt;
+&lt;h2&gt;單連桿 solvespace&lt;/h2&gt;
+
+&lt;h2&gt;組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tZ2doPuBJoY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件一&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxMp9lG5Ifg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件二&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BfRkVAKA78w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件三&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L-QCJu-bEYM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;導入v-rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oRyP5xzi-xc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得&lt;/h2&gt;
+
+&lt;h2&gt;v-rep這個軟體還是不太熟悉如何操作,但知道未來可以利用這個軟體提升效率,還要多多研究它&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;零件一 onshape&lt;/h2&gt;
 
