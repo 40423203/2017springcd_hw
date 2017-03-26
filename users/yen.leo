@@ -33,14 +33,109 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170222114233.1" a="E"><vh>20170222Week1</vh>
-<v t="leo.20170222114233.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170326161147.1" a="E"><vh>20170222Week1</vh>
+<v t="leo.20170326161147.2"><vh>1</vh>
+<v t="leo.20170326161147.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326162752.1" a="E"><vh>2</vh>
+<v t="leo.20170326162752.2"><vh>2-1</vh></v>
+</v>
+</v>
+<v t="leo.20170326161152.1"><vh>20170301Week2</vh>
+<v t="leo.20170326161152.2" a="E"><vh>1</vh>
+<v t="leo.20170326161152.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326161152.4" a="E"><vh>2</vh>
+<v t="leo.20170326161152.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170326161152.6" a="E"><vh>3</vh>
+<v t="leo.20170326161152.7"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170326161152.8" a="E"><vh>4</vh>
+<v t="leo.20170326161152.9"><vh>4-1</vh></v>
+</v>
+<v t="leo.20170326161152.10" a="E"><vh>5</vh>
+<v t="leo.20170326161152.11"><vh>5-1</vh></v>
+</v>
+<v t="leo.20170326161152.12" a="E"><vh>6</vh>
+<v t="leo.20170326161152.13"><vh>6-1</vh></v>
+</v>
+<v t="leo.20170326161152.14" a="E"><vh>7</vh>
+<v t="leo.20170326161152.15"><vh>7-1</vh></v>
+</v>
+</v>
+<v t="leo.20170326161154.1"><vh>20170310Week3</vh>
+<v t="leo.20170326161154.2" a="E"><vh>1</vh>
+<v t="leo.20170326161154.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326161154.4" a="E"><vh>2</vh>
+<v t="leo.20170326161154.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170326161154.6" a="E"><vh>3</vh>
+<v t="leo.20170326161154.7"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170326161154.8" a="E"><vh>4</vh>
+<v t="leo.20170326161154.9"><vh>4-1</vh></v>
+</v>
+<v t="leo.20170326161154.10" a="E"><vh>5</vh>
+<v t="leo.20170326161154.11"><vh>5-1</vh></v>
+</v>
+<v t="leo.20170326161154.12" a="E"><vh>6</vh>
+<v t="leo.20170326161154.13"><vh>6-1</vh></v>
+</v>
+<v t="leo.20170326161154.14" a="E"><vh>7</vh>
+<v t="leo.20170326161154.15"><vh>7-1</vh></v>
+</v>
+<v t="leo.20170326161154.16" a="E"><vh>8</vh>
+<v t="leo.20170326161154.17"><vh>8-1</vh></v>
+</v>
+<v t="leo.20170326161154.18" a="E"><vh>9</vh>
+<v t="leo.20170326161154.19"><vh>9-1</vh></v>
+</v>
+</v>
+<v t="leo.20170326161157.1" a="E"><vh>20170315Week4</vh>
+<v t="leo.20170326161157.2" a="E"><vh>1</vh>
+<v t="leo.20170326161157.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326161157.4" a="E"><vh>2</vh>
+<v t="leo.20170326161157.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170326161157.6" a="E"><vh>3</vh>
+<v t="leo.20170326161157.7"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170326161157.8" a="E"><vh>4</vh>
+<v t="leo.20170326161157.9"><vh>4-1</vh></v>
+</v>
+<v t="leo.20170326161157.10" a="E"><vh>5</vh>
+<v t="leo.20170326161157.11"><vh>5-1</vh></v>
+</v>
+<v t="leo.20170326163235.1" a="E"><vh>5-2</vh>
+<v t="leo.20170326163235.2"><vh>5-2</vh></v>
+</v>
+<v t="leo.20170326161157.12" a="E"><vh>6</vh>
+<v t="leo.20170326161157.13"><vh>6-1</vh></v>
+</v>
+<v t="leo.20170326161157.14" a="E"><vh>7</vh>
+<v t="leo.20170326161157.15"><vh>7-1</vh></v>
+</v>
+<v t="leo.20170326161157.16" a="E"><vh>8</vh>
+<v t="leo.20170326161157.17"><vh>8-1</vh></v>
+</v>
+<v t="leo.20170326161157.18" a="E"><vh>9</vh>
+<v t="leo.20170326161157.19"><vh>9-1</vh></v>
+</v>
+<v t="leo.20170326161157.20" a="E"><vh>10</vh>
+<v t="leo.20170326161157.21"><vh>10-1</vh></v>
+</v>
+<v t="leo.20170326161157.22" a="E"><vh>11</vh>
+<v t="leo.20170326161157.23"><vh>11-1</vh></v>
+</v>
 </v>
 <v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
@@ -91,33 +186,563 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170222114233.1">&lt;section data-markdown&gt;
+<t tx="leo.20170326161147.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326161147.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20170222114233.2"># 上課內容
+<t tx="leo.20170326161147.3">#Week1
 
-tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
+ 
 
-stunnel.conf移到SciTE
+</t>
+<t tx="leo.20170326161152.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326161152.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-程式碼前面是分號 就是註解不會執行那段程式碼
 
-利用cmd查IP(ipconfig /all)
 
-將https的IP改為電腦的IP(第138行)
+						
+</t>
+<t tx="leo.20170326161152.11">
+&lt;h2&gt;零件二&lt;/h2&gt;
 
-443是https內建的port號, 不用改
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oOC5SN9JWno" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-因為有用proxy所以要指定192.168.1.49的IP不要經過proxy                                              
-Chrome proxy設定&gt;LAN設定&gt;進階
+</t>
+<t tx="leo.20170326161152.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
+
+
+						
+</t>
+<t tx="leo.20170326161152.13">
+&lt;h2&gt;零件三&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9GztpUV6j0I" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161152.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161152.15">&lt;h1&gt;心得:&lt;/h1&gt;
+
+##本週要畫連桿機構，以協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統，在經練習後拍下影片紀錄。
+
+</t>
+<t tx="leo.20170326161152.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161152.3">#Week2
+
+ 
+
+</t>
+<t tx="leo.20170326161152.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161152.5">
+&lt;h2&gt;組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-t_bWIJ7S_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161152.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161152.7">
+&lt;h2&gt;  四連桿機構 solvespace &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZUkK5KOvvVk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170326161152.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161152.9">
+&lt;h2&gt;零件一&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Bk8l1w87njk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170326161154.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326161154.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.11">
+&lt;h2&gt;組合 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MrYIStdMGWI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170326161154.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.13">
+&lt;h2&gt;solvespace轉入v rep 40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0i3bnrP1BQ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170326161154.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.15">
+&lt;h2&gt;onshape轉入v rep 40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5MxxeUaQtis" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161154.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.17">
+&lt;h2&gt;solvespace三角形運動軌跡模擬40423203&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0y6PWAxTM7U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161154.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.19">
+&lt;h1&gt;心得:&lt;/h1&gt;
+
+##v-rep這個程式可以讓我們去模擬出這個作動方式可不可以實行,這樣可以減少很多風險而且很有效率
+
+
+</t>
+<t tx="leo.20170326161154.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.3">#Week3
+
+ 
+
+</t>
+<t tx="leo.20170326161154.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.5">
+&lt;h2&gt;零件一 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sYBQ4hjl2aY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170326161154.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.7">
+&lt;h2&gt;零件二 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VI9rJlEU_mA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161154.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161154.9">
+&lt;h2&gt;零件三 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NeDJ5FwVN3c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170326161157.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326161157.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.11">what we can do now is have say like thin solid it normally since 15 on many differentcomponents
+
+我們還可以做出，像較薄的物件通常有15種不同的性質
+
+but our shell components and you still want to group all those components into playing withparts and mangement completion away 
+
+並且將這些所有物質分配組到使用零件的一部分
+
+
+
+</t>
+<t tx="leo.20170326161157.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.13">
+&lt;h1&gt;單連桿 solvespace&lt;/h1&gt;
+
+&lt;h2&gt;組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tZ2doPuBJoY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170326161157.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.15">
+&lt;h2&gt;零件一&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxMp9lG5Ifg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170326161157.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.17">
+&lt;h2&gt;零件二&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BfRkVAKA78w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161157.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.19">
+&lt;h2&gt;零件三&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L-QCJu-bEYM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161157.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.21">
+&lt;h2&gt;導入v-rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oRyP5xzi-xc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161157.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.23">
+&lt;h1&gt;心得&lt;/h1&gt;
+
+##v-rep這個軟體還是不太熟悉如何操作,但知道未來可以利用這個軟體提升效率,還要多多研究它
+
+
+</t>
+<t tx="leo.20170326161157.3">#Week4
+
+ 
+
+</t>
+<t tx="leo.20170326161157.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.5">
+&lt;h2&gt;線上 倉儲&lt;/h2&gt;
+
+要在https://mde2a2.kmol.info 中建立第四組的倉儲
+
+&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;第四組&lt;/a&gt;
+
+</t>
+<t tx="leo.20170326161157.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.7">
+&lt;h1&gt;hyperworks 14-3 翻譯  40423203 40423201 &lt;/h1&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uMpXFV-gB4s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326161157.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326161157.9">
+&lt;h2&gt;以下是我翻譯的上半部分&lt;/h2&gt;
+
+we've also introduced what is called the park 
+
+我們還去可以使用公共模型
+
+empathy now and i promise just like CAD park entity 
+
+就像CAD模型一樣
+
+so what that allows us to do is give you theexact same billof materials 
+
+模型中我們給你完全一樣的物料清單
+
+in the hypermesh models that you have in your cad systems 
+
+讓你在你的CAD系統中使用
+</t>
+<t tx="leo.20170326162752.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326162752.2">
+&lt;p&gt;用ipconfig/all的指令去找IP位置
+利用尋找到的IP位置去改stunnel.conf的IP&lt;/p&gt;
+
+&lt;p&gt;心得:新的學期，新的開始，上學期所學的軟體也漸漸熟悉，這學期還有許多學習的地方，希望能夠順利完成所有挑戰~~&lt;/p&gt;
+
+</t>
+<t tx="leo.20170326163235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326163235.2"> if you want another representation which may be has a differentmesh density you can do that and configure your model according to different types of disciplines or crash or mph you
+
+所以如果你想要不同性質表示不同密度，你可以做到並根據不同需求來配置你的模型
+
+
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
