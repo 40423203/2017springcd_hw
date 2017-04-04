@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-22T11:20:00+08:00</updated><entry><title>Week5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;onshape四連桿&lt;/h1&gt;
+
+&lt;h2&gt;40423203四連桿零件&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cfWx27AlHhQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;40423203四連桿組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1VhJThDNL54" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;四連桿匯入v-rep&lt;/h1&gt;
+
+&lt;p&gt;近期補影片&lt;/p&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+
+&lt;h2&gt;onshape已經熟練很多了,這一次遇到比較困難的地方,是在v-rep,在拉作動那裡雖然上一次已經有練習過了,但還是有些地方會卡住,最後還是完成作動了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;v-rep 單連桿匯入作動&lt;/h1&gt;
 
