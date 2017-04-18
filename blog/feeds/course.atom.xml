@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:20:00+08:00</updated><entry><title>Week7</title><link href="./Week%207.html" rel="alternate"></link><published>2017-04-05T11:20:00+08:00</published><updated>2017-04-05T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-04-05:./Week 7.html</id><summary type="html">&lt;p&gt;onshape八連桿組立&lt;/p&gt;
 
+
+&lt;h1&gt;onshape畫出八連桿&lt;/h1&gt;
+
+&lt;h2&gt;八連桿零件繪製&lt;/h2&gt;
+
+&lt;p&gt;零件一&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2hZC0mmiD5Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件二&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pJNSzaGLs80" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件三&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aaTQkx0sbFY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件四&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WZQ1Sr-n69c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件五&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SoJHsboeJbc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件六&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5wip5rF_uls" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件七&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vMJ29FeFUak" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件八&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iguxuzUWosI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;八連桿組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AgF7S27yycA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;八連桿導入v-rep作動&lt;/h1&gt;
+
+&lt;p&gt;正在嘗試&lt;/p&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+
+&lt;p&gt;這次作業中零件比起上次多了許多，再組裝過程中有多花許多時間思考了一下，過程中也增加了自己的組裝概念，收益良多!&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;p&gt;onshape四連桿，v-rep作動
+&lt;/p&gt;
 &lt;h1&gt;onshape四連桿&lt;/h1&gt;
 
 &lt;h2&gt;40423203四連桿零件&lt;/h2&gt;
@@ -17,8 +57,8 @@
 
 &lt;h1&gt;心得&lt;/h1&gt;
 
-&lt;h2&gt;onshape已經熟練很多了,這一次遇到比較困難的地方,是在v-rep,在拉作動那裡雖然上一次已經有練習過了,但還是有些地方會卡住,最後還是完成作動了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;h2&gt;onshape已經熟練很多了,這一次遇到比較困難的地方,是在v-rep,在拉作動那裡雖然上一次已經有練習過了,但還是有些地方會卡住,最後還是完成作動了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;p&gt;v-rep 單連桿匯入作動
+&lt;/p&gt;
 &lt;h1&gt;v-rep 單連桿匯入作動&lt;/h1&gt;
 
 &lt;h2&gt;設定v-rep單連桿匯入作動&lt;/h2&gt;
@@ -27,8 +67,8 @@
 
 &lt;h1&gt;心得&lt;/h1&gt;
 
-&lt;h2&gt;一開始接觸v-rep時以為只是能夠看實體,不過因為這一次學會設定作動了,所以之後的機構可行性都可以利用v-rep模擬了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;h2&gt;一開始接觸v-rep時以為只是能夠看實體,不過因為這一次學會設定作動了,所以之後的機構可行性都可以利用v-rep模擬了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;p&gt;hyperworks 14-3 翻譯，單連桿 solvespace，導入v-rep
+&lt;/p&gt;
 &lt;h2&gt;線上 倉儲&lt;/h2&gt;
 
 &lt;p&gt;要在https://mde2a2.kmol.info 中建立第四組的倉儲&lt;/p&gt;
@@ -77,8 +117,8 @@
 
 &lt;h2&gt;心得&lt;/h2&gt;
 
-&lt;h2&gt;v-rep這個軟體還是不太熟悉如何操作,但知道未來可以利用這個軟體提升效率,還要多多研究它&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;h2&gt;v-rep這個軟體還是不太熟悉如何操作,但知道未來可以利用這個軟體提升效率,還要多多研究它&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;p&gt;onshape四連桿轉入v-rep，solvespace三角形運動軌跡模擬組裝
+&lt;/p&gt;
 &lt;h2&gt;零件一 onshape&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sYBQ4hjl2aY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -109,8 +149,8 @@
 
 &lt;h2&gt;心得:&lt;/h2&gt;
 
-&lt;h2&gt;v-rep這個程式可以讓我們去模擬出這個作動方式可不可以實行,這樣可以減少很多風險而且很有效率&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-04:./Week 2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;h2&gt;v-rep這個程式可以讓我們去模擬出這個作動方式可不可以實行,這樣可以減少很多風險而且很有效率&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-04:./Week 2.html</id><summary type="html">&lt;p&gt;solvespace組裝四連桿機構
+&lt;/p&gt;
 &lt;h2&gt;組合&lt;/h2&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-t_bWIJ7S_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -136,8 +176,8 @@
 &lt;h2&gt;本週要畫連桿機構，以協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統，在經練習後拍下影片紀錄。&lt;/h2&gt;
 &lt;p&gt;筆記:
 1.REM tiny2017主要針對初學Python3與C學員所建立
-2.REM近端使用fossil管理資料版本，並且定時轉為git格式後上傳到github&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+2.REM近端使用fossil管理資料版本，並且定時轉為git格式後上傳到github&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;p&gt;用ipconfig/all的指令去找IP位置 利用尋找到的IP位置去改stunnel.conf的IP
+&lt;/p&gt;
 &lt;p&gt;用ipconfig/all的指令去找IP位置
 利用尋找到的IP位置去改stunnel.conf的IP&lt;/p&gt;
 
