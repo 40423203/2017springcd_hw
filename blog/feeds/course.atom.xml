@@ -74,18 +74,20 @@ ctx.closePath()
 &lt;p&gt;3.四連桿四足行走機構&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zktLPzCXgVY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;4.分組協同零件展示
+&lt;p&gt;4.分組協同零件展示&lt;/p&gt;
 &lt;p&gt;&lt;link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
 &lt;script src="./../data/madeleine/src/lib/stats.js"&gt;&lt;/script&gt;
 &lt;script src="./../data/madeleine/src/lib/detector.js"&gt;&lt;/script&gt;
 &lt;script src="./../data/madeleine/src/lib/three.min.js"&gt;&lt;/script&gt;
 &lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
+
 &lt;script&gt;
 window.onload = function(){
     var madeleine = new Madeleine({
       target: 'target', // target div id
-      data: './../data/40423203.stl', // data path
+      data: './../data/40423223.stl', // data path
       path: './../data/madeleine/src/' // path to source directory from current html file
     });
 }; 
