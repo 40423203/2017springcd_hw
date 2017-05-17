@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-03T11:00:00+08:00</updated><entry><title>Week11</title><link href="./Week%2011.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-03:./Week 11.html</id><summary type="html">&lt;ol&gt;
-&lt;li&gt;讀後心得&lt;/li&gt;
-&lt;li&gt;正齒輪傳動繪圖 &lt;/li&gt;
-&lt;/ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-10T11:00:00+08:00</updated><entry><title>Week12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
 
 
-&lt;p&gt;1.讀後心得&lt;/p&gt;
-&lt;p&gt;Onshape's Greatest Tech Tips– Volume 1&lt;/p&gt;
-
-&lt;p&gt;心得:&lt;/p&gt;
-
-&lt;p&gt;清楚了解on shape功能對於產品設計中的應用外，也可發現on shape在協同上的重視，如:追隨模式，方便讓合作夥伴與作者同步討論外，也能對產品特徵做及時修改，以及使用導入DXF檔的功能，能讓2D草圖匯入後，方便對照進行3D建模，建好的產品儲存後，可以去看時間軸了解產品變化。&lt;/p&gt;
-&lt;p&gt;An Introduction to Agile Product Design&lt;/p&gt;
-
-&lt;p&gt;心得:&lt;/p&gt;
-
-&lt;p&gt;在強調速度與創新的現代社會中，越快抓住市場趨勢改變的人就越有優勢，因此敏捷的產品設計在這時代是不可或缺的能力，由此可見設計使用的軟體越偏向快速、成本低、功能完備、方便討論的趨勢，若能縮短產品設計與發佈的時間，越能搶佔市場優勢，成為新潮產品，並獨佔專利權，團隊合作方面也不如以往，一人一台電腦CAD畫圖階段性接著畫，現在為節省時間，強調同步處理也就說到了，前面所提到的on shape，此軟體在現在要求敏捷產品設計的社會中，可發現在協同上的便利，一方面讓團隊能隨時注意組員畫圖進度若要組裝可以馬上應用外，一方面因為是網頁式開啟，比起以往需要帶著軟體到處跑，現在只需要有網路皆可開啟討論。
-總心得:看完文章後了解了on shpae的便利性並對他的再產品設計中的地位有不同的認識，並也了解到了現代產品設計的趨勢與合作團隊模式的改變，或許現在的on shape還不能完全取代許多繪圖軟體，但相信在未來一步步改善後，非常有機會成為未來產品設計的主流。&lt;/p&gt;
-&lt;p&gt;2.正齒輪傳動繪圖 &lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
@@ -262,7 +246,24 @@ cy = canvas.height/2
 gear.translate(cx, cy)
 # render 繪出靜態正齒輪輪廓
 cgo.render(gear)
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week9 期中報告</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T11:20:00+08:00</published><updated>2017-04-19T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week11</title><link href="./Week%2011.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-03:./Week 11.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;讀後心得&lt;/li&gt;
+&lt;li&gt;正齒輪傳動繪圖 &lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;1.讀後心得&lt;/p&gt;
+&lt;p&gt;Onshape's Greatest Tech Tips– Volume 1&lt;/p&gt;
+
+&lt;p&gt;心得:&lt;/p&gt;
+
+&lt;p&gt;清楚了解on shape功能對於產品設計中的應用外，也可發現on shape在協同上的重視，如:追隨模式，方便讓合作夥伴與作者同步討論外，也能對產品特徵做及時修改，以及使用導入DXF檔的功能，能讓2D草圖匯入後，方便對照進行3D建模，建好的產品儲存後，可以去看時間軸了解產品變化。&lt;/p&gt;
+&lt;p&gt;An Introduction to Agile Product Design&lt;/p&gt;
+
+&lt;p&gt;心得:&lt;/p&gt;
+
+&lt;p&gt;在強調速度與創新的現代社會中，越快抓住市場趨勢改變的人就越有優勢，因此敏捷的產品設計在這時代是不可或缺的能力，由此可見設計使用的軟體越偏向快速、成本低、功能完備、方便討論的趨勢，若能縮短產品設計與發佈的時間，越能搶佔市場優勢，成為新潮產品，並獨佔專利權，團隊合作方面也不如以往，一人一台電腦CAD畫圖階段性接著畫，現在為節省時間，強調同步處理也就說到了，前面所提到的on shape，此軟體在現在要求敏捷產品設計的社會中，可發現在協同上的便利，一方面讓團隊能隨時注意組員畫圖進度若要組裝可以馬上應用外，一方面因為是網頁式開啟，比起以往需要帶著軟體到處跑，現在只需要有網路皆可開啟討論。
+總心得:看完文章後了解了on shpae的便利性並對他的再產品設計中的地位有不同的認識，並也了解到了現代產品設計的趨勢與合作團隊模式的改變，或許現在的on shape還不能完全取代許多繪圖軟體，但相信在未來一步步改善後，非常有機會成為未來產品設計的主流。&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>Week9 期中報告</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T11:20:00+08:00</published><updated>2017-04-19T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
 &lt;p&gt;2.路徑圖&lt;/p&gt;
 &lt;p&gt;3.四連桿四足行走機構 &lt;/p&gt;
 &lt;p&gt;4.分組協同零件展示&lt;/p&gt;
