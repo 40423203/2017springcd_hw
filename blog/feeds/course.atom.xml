@@ -2,6 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T11:00:00+08:00</updated><entry><title>Week15</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;15周練習&lt;/p&gt;
 
 
+&lt;p&gt;練習一&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZGblVq77Sk8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
