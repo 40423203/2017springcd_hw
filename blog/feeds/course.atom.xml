@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>Week17</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;p&gt;期末練習&lt;/p&gt;
 
 
-&lt;ol&gt;
-&lt;li&gt;推送solvespace 檔案&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;1.推送solvespace 檔案&lt;/p&gt;
 &lt;iframe src="./../data/w17/40423203.html" width="600" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;2.2D 繪圖&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GuXX_W3l96U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;p&gt;&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
@@ -141,11 +141,21 @@ pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;/script&gt;
 
-&lt;p&gt;3.
-solvespace 3D 繪圖 &lt;/p&gt;
-&lt;h4&gt;3D繪圖&lt;h4/&gt;
+&lt;p&gt;3.子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NOVTbKg99eE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../data/w17/4.html" width="600" height="600"&gt;&lt;/iframe&gt;</summary><category term="Brython"></category></entry><entry><title>Week15</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;15周練習&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/A2hObryTuDk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;4.solvespace 3D 繪圖 &lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WhmJPU9WhYc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/w17/4.html" width="600" height="600"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;5.匯入vrep&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Fn-A_ts_SXc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;7.Fossil SCM 倉儲 推送&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hQ_D8_xQNsE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Brython"></category></entry><entry><title>Week15</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;15周練習&lt;/p&gt;
 
 
 &lt;p&gt;練習一&lt;/p&gt;
