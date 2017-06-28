@@ -300,7 +300,7 @@ init_mathjax();
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-05-31T11:00:00+08:00"> Wed 31 May 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-05-31T11:00:00+08:00"> 週三 31 五月 2017</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423203.html"><i class="fa fa-user"></i> 40423203</a>
@@ -477,11 +477,11 @@ ctx.fillText("40423203 ",(canvas.width)/2-60,(canvas.width)/2-75)
 ctx.stroke()
 </script>
 
-<!-- 以下實際利用  Brython 繪圖-->
+<!-- 以下實際利用  Brython 繪圖半齒型正齒輪-->
 
 <canvas id="onegear2" width="800" height="600"></canvas>
 
-<div id="onegear2_div" width="800" height="20"></div>
+<div id="onegear_div" width="800" height="20"></div>
 
 <script type="text/python3">
 from browser import document as doc
@@ -512,7 +512,7 @@ class Spur(object):
         # 齒輪漸開線分成 15 線段繪製
         imax = 15
         # 在輸入的畫布上繪製直線, 由圓心到節圓 y 軸頂點畫一直線
-        self.create_line(midx, midy, midx, midy-rp)
+        self.create_line(midx-rp, midy, midx+rp, midy)
         # 畫出 rp 圓, 畫圓函式尚未定義
         #create_oval(midx-rp, midy-rp, midx+rp, midy+rp, width=2)
         # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
@@ -543,7 +543,7 @@ class Spur(object):
             dr=(ra-rb)/imax
         # tan(pa*deg)-pa*deg 為漸開線函數
         sigma=math.pi/(2*n)+math.tan(pa*deg)-pa*deg
-        for j in range(n):
+        for j in range(-9,10,+1):
             ang=-2.*j*math.pi/n+sigma
             ang2=2.*j*math.pi/n+sigma
             lxd=midx+rd*math.sin(ang2-2.*math.pi/n)
@@ -614,11 +614,13 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
 ctx.beginPath()
-ctx.fillStyle = "   #2894FF"
+ctx.fillStytle = "#0aff53"
 ctx.font = "30px ScriptS"
-ctx.fillText("40423203 ",(canvas.width)/2-60,(canvas.width)/2-75)
+ctx.fillText("40423203",x-50,y)
 ctx.stroke()
+
 </script>
             </div>
             <!-- /.entry-content -->
@@ -635,8 +637,18 @@ ctx.stroke()
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="./Week 18.html">
+                            Week18
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="./Week 17.html">
                             Week17
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./Week 16.html">
+                            Week16
                         </a>
                     </li>
                     <li class="list-group-item">
@@ -645,18 +657,8 @@ ctx.stroke()
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="./Week 12.html">
-                            Week12
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./Week 11.html">
-                            Week11
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./Week 9.html">
-                            Week9 期中報告
+                        <a href="./Week 13.html">
+                            Week13
                         </a>
                     </li>
                 </ul>

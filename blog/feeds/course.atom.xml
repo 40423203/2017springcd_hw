@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>Week17</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;p&gt;期末練習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423203-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T11:00:00+08:00</updated><entry><title>Week18</title><link href="./Week%2018.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-06-21:./Week 18.html</id><summary type="html">&lt;p&gt;期末報告&lt;/p&gt;
+
+
+&lt;p&gt;這學期最後老師請大家上台報告,並且自評,
+握在這堂課學到的東西是真的可以幫助我之後,遇到困難
+或是一些實作方面可以用上的方法與做法&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>Week17</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;p&gt;期末練習&lt;/p&gt;
 
 
 &lt;p&gt;1.推送solvespace 檔案&lt;/p&gt;
@@ -155,7 +160,11 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Fn-A_ts_SXc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;7.Fossil SCM 倉儲 推送&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hQ_D8_xQNsE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Brython"></category></entry><entry><title>Week15</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;15周練習&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hQ_D8_xQNsE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Brython"></category></entry><entry><title>Week16</title><link href="./Week%2016.html" rel="alternate"></link><published>2017-06-07T11:00:00+08:00</published><updated>2017-06-07T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-06-07:./Week 16.html</id><summary type="html">&lt;p&gt;onshape 模擬齒輪&lt;/p&gt;
+
+
+&lt;p&gt;實作影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Pw6A5JjXQ1I" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Brython"></category></entry><entry><title>Week15</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;15周練習&lt;/p&gt;
 
 
 &lt;p&gt;練習一&lt;/p&gt;
@@ -320,11 +329,11 @@ ctx.fillText("40423203 ",(canvas.width)/2-60,(canvas.width)/2-75)
 ctx.stroke()
 &lt;/script&gt;
 
-&lt;!-- 以下實際利用  Brython 繪圖--&gt;
+&lt;!-- 以下實際利用  Brython 繪圖半齒型正齒輪--&gt;
 
 &lt;canvas id="onegear2" width="800" height="600"&gt;&lt;/canvas&gt;
 
-&lt;div id="onegear2_div" width="800" height="20"&gt;&lt;/div&gt;
+&lt;div id="onegear_div" width="800" height="20"&gt;&lt;/div&gt;
 
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -355,7 +364,7 @@ class Spur(object):
         # 齒輪漸開線分成 15 線段繪製
         imax = 15
         # 在輸入的畫布上繪製直線, 由圓心到節圓 y 軸頂點畫一直線
-        self.create_line(midx, midy, midx, midy-rp)
+        self.create_line(midx-rp, midy, midx+rp, midy)
         # 畫出 rp 圓, 畫圓函式尚未定義
         #create_oval(midx-rp, midy-rp, midx+rp, midy+rp, width=2)
         # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
@@ -386,7 +395,7 @@ class Spur(object):
             dr=(ra-rb)/imax
         # tan(pa*deg)-pa*deg 為漸開線函數
         sigma=math.pi/(2*n)+math.tan(pa*deg)-pa*deg
-        for j in range(n):
+        for j in range(-9,10,+1):
             ang=-2.*j*math.pi/n+sigma
             ang2=2.*j*math.pi/n+sigma
             lxd=midx+rd*math.sin(ang2-2.*math.pi/n)
@@ -457,12 +466,24 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
 ctx.beginPath()
-ctx.fillStyle = "   #2894FF"
+ctx.fillStytle = "#0aff53"
 ctx.font = "30px ScriptS"
-ctx.fillText("40423203 ",(canvas.width)/2-60,(canvas.width)/2-75)
+ctx.fillText("40423203",x-50,y)
 ctx.stroke()
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
+
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week13</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-13T11:00:00+08:00</published><updated>2017-05-13T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-13:./Week 13.html</id><summary type="html">&lt;p&gt;行走機構&lt;/p&gt;
+
+
+&lt;p&gt;行走機構: &lt;a href="https://cad.onshape.com/documents/22983a081500fe849778c5bf/w/e995a739d17fc17c8aadca37/e/4c547c1146ee056afb594f42"&gt;行走機構&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作動影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/m-1wKDAMSos" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;組合影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QxRjTTXJ7no" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件四
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PxKO35sJlKw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>Week12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
